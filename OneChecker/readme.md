@@ -16,3 +16,4 @@ I use Brave so this doesn't do anything on my computer except be a piece of wast
 - Says it can't be deleted
 - I can turn it off in task sheduler but then it turns itself back on.
 - I did not consent to it being on my computer it just showed up randomly.
+- Tried commenting out the powershell script as admin, It did nothing.
